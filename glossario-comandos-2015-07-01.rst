@@ -4,76 +4,76 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Vitor Fernandes Vitalino
+:Matrícula: 20121144010206
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Ler arquivo
 
 
 cd
-  Descrição do comando
+  Mudar diretório atual
 
 
 cowsay
-  Descrição do comando
+  Vaquinha que diz algo
 
 
 echo
-  Descrição do comando
+  Imprimir algum valor no bash
 
 
 env
-  Descrição do comando
+  Mostras as variáveis do ambiente
 
 
 exit
-  Descrição do comando
+  Sai do comando atual
 
 
 help
-  Descrição do comando
+  Ajuda sobre determinado comando
 
 
 HISTTIMEFORMAT="%d/%m/%y
-  Descrição do comando
+  Determina o formato do historico exibido
 
 
 hostname
-  Descrição do comando
+  Exibe o nome da máquina
 
 
 ifconfig
-  Descrição do comando
+  
 
 
 last
-  Descrição do comando
+  mostra último acesso no usuário
 
 
 lastb
-  Descrição do comando
+  
 
 
 ls
-  Descrição do comando
+  Mostra conteúdo de determinada pasta
 
 
 mkdir
-  Descrição do comando
+  Criar diretório 
 
 
-nome="fulano
-  Descrição do comando
+nome="fulano"
+  Inicia a variável "nome"
 
 
 passswd
-  Descrição do comando
+  Muda a senha do usuário
 
 
 pwd
-  Descrição do comando
+  Exibe diretório em que o usuário se encontra
 
 
 set
